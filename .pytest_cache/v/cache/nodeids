@@ -1,0 +1,4 @@
+[
+  "tests/kindergifts/login_test.py::LoginTests::test_invalid_login",
+  "tests/kindergifts/login_test.py::LoginTests::test_valid_login"
+]

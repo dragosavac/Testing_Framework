@@ -1,0 +1,183 @@
+02/12/2019 01:00:48 PM - EventCreatePage - INFO: Element Found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType: xpath
+02/12/2019 01:00:51 PM - EventCreatePage - INFO: Clicked on element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:00:51 PM - EventCreatePage - INFO: Element Found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType: xpath
+02/12/2019 01:00:53 PM - EventCreatePage - INFO: Clicked on element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:00:53 PM - EventCreatePage - INFO: Element Found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType: xpath
+02/12/2019 01:00:56 PM - EventCreatePage - INFO: Clicked on element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:00:56 PM - EventCreatePage - INFO: Element Found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday cake' )] and locatorType: xpath
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Clicked on element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday cake' )] locatorType: xpath
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_title and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_celebrants and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_host and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_phone and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_phone locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: js-datepicker-eventDate and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: js-datepicker-eventDate locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: js-datepicker-rsvp and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: js-datepicker-rsvp locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_venue and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_venue locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_city and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_city locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_code and locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_code locatorType: id
+02/12/2019 01:00:59 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_continue and locatorType: id
+02/12/2019 01:01:01 PM - EventCreatePage - INFO: Clicked on element with locator: create_invitation_form_continue locatorType: id
+02/12/2019 01:01:01 PM - EventCreatePage - INFO: Element Found with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] and locatorType: xpath
+02/12/2019 01:01:01 PM - EventCreatePage - INFO: Element present with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] locatorType: xpath
+02/12/2019 01:01:01 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Design created successfully
+02/12/2019 01:01:01 PM - EventCreatePage - INFO: Element Found with locator: html/body/div/main/section[2]/div[2]/div/div/div[1]/a and locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - INFO: Clicked on element with locator: html/body/div/main/section[2]/div[2]/div/div/div[1]/a locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: .//*[@id='17']/div/div[1]/div[3]/a and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: .//*[@id='17']/div/div[1]/div[3]/a locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //a[contains(@class,'btn btn-red')] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[contains(@class,'btn btn-red')] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not present with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] locatorType: xpath
+02/12/2019 01:01:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Gift added successfully
+02/12/2019 01:01:03 PM - TestStatus - ERROR: ### Exception Occurred
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //img[@class='poa box-img-charity'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@class='poa box-img-charity'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: .//*[@id='js-templates-container']/div[1]/ul/li[4]/a/div/p and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: .//*[@id='js-templates-container']/div[1]/ul/li[4]/a/div/p locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //a[contains(@class,'btn btn-red')] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[contains(@class,'btn btn-red')] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //button[contains(text(), 'Save draft')] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //button[contains(text(), 'Save draft')] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday fun' )] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday fun' )] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday gifts' )] and locatorType xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday gifts' )] locatorType: xpath
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:01:03 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'' )] and locatorType xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'' )] locatorType: xpath
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:01:04 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:04:43 PM - EventCreatePage - INFO: Element Found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType: xpath
+02/12/2019 01:04:44 PM - EventCreatePage - INFO: Clicked on element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:04:44 PM - EventCreatePage - INFO: Element Found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType: xpath
+02/12/2019 01:04:45 PM - EventCreatePage - INFO: Clicked on element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:04:45 PM - EventCreatePage - INFO: Element Found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType: xpath
+02/12/2019 01:04:46 PM - EventCreatePage - INFO: Clicked on element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:04:46 PM - EventCreatePage - INFO: Element Found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday cake' )] and locatorType: xpath
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Clicked on element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday cake' )] locatorType: xpath
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_title and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_celebrants and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_host and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_phone and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_phone locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: js-datepicker-eventDate and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: js-datepicker-eventDate locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: js-datepicker-rsvp and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: js-datepicker-rsvp locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_venue and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_venue locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_city and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_city locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_code and locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Sent data on element with locator: create_invitation_form_code locatorType: id
+02/12/2019 01:04:48 PM - EventCreatePage - INFO: Element Found with locator: create_invitation_form_continue and locatorType: id
+02/12/2019 01:04:49 PM - EventCreatePage - INFO: Clicked on element with locator: create_invitation_form_continue locatorType: id
+02/12/2019 01:04:52 PM - EventCreatePage - ERROR: Element not found with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] and locatorType xpath
+02/12/2019 01:04:52 PM - EventCreatePage - ERROR: Element not present with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] locatorType: xpath
+02/12/2019 01:04:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Design created successfully
+02/12/2019 01:04:52 PM - TestStatus - INFO: Screenshot save to directory: /Users/rade_dragosavac/PycharmProjects/framework/base/../screenshots/Design created successfully.1549973092614.png
+02/12/2019 01:04:55 PM - EventCreatePage - ERROR: Element not found with locator: html/body/div/main/section[2]/div[2]/div/div/div[1]/a and locatorType xpath
+02/12/2019 01:04:55 PM - EventCreatePage - ERROR: Can't click on the element with locator: html/body/div/main/section[2]/div[2]/div/div/div[1]/a locatorType: xpath
+02/12/2019 01:04:58 PM - EventCreatePage - ERROR: Element not found with locator: .//*[@id='17']/div/div[1]/div[3]/a and locatorType xpath
+02/12/2019 01:04:58 PM - EventCreatePage - ERROR: Can't click on the element with locator: .//*[@id='17']/div/div[1]/div[3]/a locatorType: xpath
+02/12/2019 01:05:01 PM - EventCreatePage - ERROR: Element not found with locator: //a[contains(@class,'btn btn-red')] and locatorType xpath
+02/12/2019 01:05:01 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[contains(@class,'btn btn-red')] locatorType: xpath
+02/12/2019 01:05:05 PM - EventCreatePage - ERROR: Element not found with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] and locatorType xpath
+02/12/2019 01:05:05 PM - EventCreatePage - ERROR: Element not present with locator: //h3[contains(text(),'How much of your gift would you like to share with charity?')] locatorType: xpath
+02/12/2019 01:05:05 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Gift added successfully
+02/12/2019 01:05:05 PM - TestStatus - INFO: Screenshot save to directory: /Users/rade_dragosavac/PycharmProjects/framework/base/../screenshots/Gift added successfully.1549973105014.png
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //img[@class='poa box-img-charity'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@class='poa box-img-charity'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: .//*[@id='js-templates-container']/div[1]/ul/li[4]/a/div/p and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: .//*[@id='js-templates-container']/div[1]/ul/li[4]/a/div/p locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //a[contains(@class,'btn btn-red')] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[contains(@class,'btn btn-red')] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //button[contains(text(), 'Save draft')] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //button[contains(text(), 'Save draft')] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday fun' )] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday fun' )] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday gifts' )] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'Birthday gifts' )] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //img[@src='/bundles/design/img/logo/kindergifts_logo_green.png'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //a[@class='btn text--boldest btn-red btn-shadow padding--vert padding--hor text--20'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //div[contains(@class,'container-event por bg--gray-lr container-bg')]//a[@href='/event/select-template-design/'] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'' )] and locatorType xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't click on the element with locator: //span[@class='template-name cl-purple text-bold text--16'][contains(text(),'' )] locatorType: xpath
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_title and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_title locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_celebrants and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_celebrants locatorType: id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Element not found with locator: create_invitation_form_host and locatorType id
+02/12/2019 01:05:06 PM - EventCreatePage - ERROR: Can't send data on the element with locator: create_invitation_form_host locatorType: id
